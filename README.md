@@ -1,6 +1,5 @@
-# mastering-git-august
-##header 2
-###header3
+# This is our first repo
+## We created some files 
+- script.sh
+- python.py
 
-
-removed 2 
